@@ -2,7 +2,7 @@
 
 A computational neuroscience project comparing how a supervised CNN (**ResNet-50**) and a vision-language transformer (**CLIP ViT-B/16**) represent two properties that matter for the human ventral visual stream: **animate vs. inanimate category structure** and **image memorability**.
 
-The goal is not to crown a winner, but to show how unit-level selectivity and response magnitude differ between architectures and training objectives, and whether either model's internal signals track human behavior.
+The goal is to show how unit-level selectivity and response magnitude differ between architectures and training objectives, and whether either model's internal signals track human behavior.
 
 ---
 
